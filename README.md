@@ -39,10 +39,6 @@ quiz-app/
 │ └── models/ # Schema/DB logic
 └── firebase/ # Firebase setup and rules
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🔐 User Roles
